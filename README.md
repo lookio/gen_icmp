@@ -1,3 +1,4 @@
+migrated: https://gitlab.com/l1905/maven-business/lookio-legacy/gen_icmp
 
 gen\_icmp aspires to be a simple interface for using ICMP and ICMPv6
 sockets in Erlang, just like gen\_tcp and gen\_udp do for their protocol
